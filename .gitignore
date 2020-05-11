@@ -1,0 +1,5 @@
+.vscode
+ll_env/
+*.sqlite3
+_pycache_
+*.pyc
